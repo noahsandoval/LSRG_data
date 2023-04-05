@@ -1,6 +1,6 @@
 ﻿Command,Additional flags/inputs,Description/Notes
-git clone,,
-git status,,
+git clone,HTTPS link from repo on github.com,Takes files/folders from online github repo and copies them to our computer
+git status,N/A,Tells us whether a file has been saved/modified (Working directory). Tells us if a file has been staged (staging area). 
 git add,,
 git commit,,
 git pull,,
