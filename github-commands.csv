@@ -1,9 +1,9 @@
 ﻿Command,Additional flags/inputs,Description/Notes
 git clone,HTTPS link from repo on github.com,Takes files/folders from online github repo and copies them to our computer
 git status,N/A,Tells us whether a file has been saved/modified (Working directory). Tells us if a file has been staged (staging area). 
-git add,,
-git commit,,
-git pull,,
-git push,,
+git add,"file name, as shown in the computer",Moves a modified file from the working directory to the staging area. Saves a specific version of the file. 
+git commit,"""-m"" and quotes to enter a commit message",Add files/folders to the local repository. Officially part of the local data. 
+git pull,N/A,Pull all the changes from the remote repo (as compared to my local version)
+git push,N/A,Takes all local commits and pushes it to the (shared) remote repo. 
 git reset,,
 git log,,
