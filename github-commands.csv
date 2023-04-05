@@ -1,4 +1,5 @@
 ﻿Command,Additional flags/inputs,Description/Notes
+git clone,,
 git status,,
 git add,,
 git commit,,
