@@ -1,0 +1,8 @@
+﻿Command,Additional flags/inputs,Description/Notes
+git status,,
+git add,,
+git commit,,
+git pull,,
+git push,,
+git reset,,
+git log,,
